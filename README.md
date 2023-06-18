@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brandan-Lee
 - 👀 I’m interested in ... Cycling, Gaming, Music, Camping, Building plastic models
-- 🌱 I’m currently learning ... Becoming an Indie Game Developer
+- 🌱 I’m currently learning ... Becoming a software developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... brandan.sherbrooke@gmail.com
 
