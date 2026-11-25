@@ -90,6 +90,4 @@ When I'm not writing code, you'll usually find me wrenching on my 2003 VW Citi G
 
 <br /><br />
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-
 </div>
