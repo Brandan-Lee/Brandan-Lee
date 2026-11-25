@@ -11,7 +11,7 @@ Before starting university, I spent several years as a self-taught developer, wh
 - **Cloud & Mobile Architecture:** Exploring cloud-native backend patterns, spatial indexing, and modular full-stack design.
 - **Education:** BSc IT (Software Engineering) graduate
 
-## Socials:
+# Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/brandanleejames.sherbrooke) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/brandan_sherbrooke) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandan-lee-sherbrooke-38067a225/)
 
 # Tech Stack:
@@ -20,15 +20,13 @@ Before starting university, I spent several years as a self-taught developer, wh
 # Beyond the Keyboard
 When I'm not writing code, you'll usually find me wrenching on my 2003 VW Citi Golf, troubleshooting PC hardware, or dialling in settings on competitive FPS games.
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Brandan-Lee&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://streak-stats.demolab.com/?user=Brandan-Lee&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Brandan-Lee&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+# Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 
----
-[![](https://komarev.com/ghpvc/?username=Brandan-Lee&icon=5&color=3)](https://visitcount.itsvg.in)
