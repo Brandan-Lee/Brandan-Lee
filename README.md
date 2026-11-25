@@ -28,5 +28,5 @@ When I'm not writing code, you'll usually find me wrenching on my 2003 VW Citi G
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Brandan-Lee&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
